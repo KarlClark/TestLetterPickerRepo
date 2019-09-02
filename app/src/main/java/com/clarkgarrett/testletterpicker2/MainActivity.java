@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private ArrayList<Character> alVowelChars = new ArrayList<>();
     private static final String TAG = "## My Info ##";
 
+    //Test comment 1
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
